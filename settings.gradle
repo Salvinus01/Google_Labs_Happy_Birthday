@@ -1,0 +1,2 @@
+rootProject.name = "Google_Labs_Happy_Birthday"
+include ':app'
